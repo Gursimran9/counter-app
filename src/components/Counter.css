@@ -1,5 +1,16 @@
 .counter {
-  margin-top: 10%;
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: aqua;
+}
+h1 {
+  font-size: 200px;
+}
+.positive {
+  background-color: antiquewhite;
+}
+.negative {
+  background-color: #fbe57c;
 }
